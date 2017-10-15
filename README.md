@@ -1,5 +1,5 @@
 # autonomousAgents
-This repository contains a Unity project created for the Autonomous Agents module of the Interactive Entertainment Technology Masters course. The project contains a simulation of "Westworld", a small fictional town populated by three inhabitants: the Sheriff, the Outlaw, and the Undertaker. There are scripts implementing agents (which are finite state machines), messaging, the world (which is a procedurally generated 8*8 2D gird), pathfinding (A*), and sensing.
+This repository contains a Unity project created for the Autonomous Agents module of the Interactive Entertainment Technology Masters course. The project contains a simulation of "Westworld", a small fictional town populated by three inhabitants: the Sheriff, the Outlaw, and the Undertaker. There are scripts implementing agents (which are finite state machines), messaging, the world (which is a procedurally generated 8x8 2D gird), pathfinding (A\*), and sensing.
 
 
 The agents of Westworld each have their role to play. The Sheriff wanders the town, keeping an eye out for the Outlaw, trying to find his secret hideout, but he never can. If he spots the Outlaw, he shoots him on sight. The Sheriff is a bit of a drunkard though, so if he checks for the Outlaw in the Saloon, he may stop for a drink or two, or three...
